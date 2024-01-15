@@ -39,7 +39,7 @@ The data for this project is sourced from [world_cup_results.xlsx](https://githu
 
 ## How to Contribute
 
-If you have ideas for improvements or find any issues, feel free to contribute! Fork the repository and submit a pull request.
+If you have ideas for improvements or find any issues, feel free to contribute! Fork the repository and submit a [pull request](https://github.com/virajbhutada/FIFA-WorldCup-Analytics-Tableau-1930-2014/pulls).
 
 ## License
 
