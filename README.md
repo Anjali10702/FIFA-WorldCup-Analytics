@@ -6,7 +6,7 @@ Welcome to the FIFA World Cup Analytics repository, a comprehensive exploration 
 
 ---
 
-## Dashboard Features
+## Project Highlights
 
 - **Champions and Top Performers:** Explore the list of countries that have won the FIFA World Cup and top-performing teams across tournament years.
 - **Final Stadiums:** Discover details about the stadiums hosting finals, creating a visual journey through the historical venues.
