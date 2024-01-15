@@ -47,4 +47,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Author:** Viraj N. Bhutada ([LinkedIn](https://www.linkedin.com/in/virajnbhutada24/))
+## Author: [Viraj N. Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
