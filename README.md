@@ -1,6 +1,6 @@
 # FIFA World Cup Analytics - Tableau (1930-2014)
 
----
+
 
 Welcome to the FIFA World Cup Analytics repository, a comprehensive exploration of football history through an interactive Tableau dashboard. This project covers the period from 1930 to 2014, offering insights into World Cup champions, top-performing teams, final stadiums, qualified nations, and audience statistics. The dashboard provides a visually engaging experience, encapsulating the legacy of the FIFA World Cup.
 
